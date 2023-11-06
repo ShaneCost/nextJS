@@ -1,0 +1,12 @@
+button {
+    color: green;
+    border-radius: 30%;
+    font-size: large;
+    background-color: navajowhite;
+}
+
+#output {
+    font-size: large;
+    color:darkolivegreen;
+    font-family: 'Courier New', Courier, monospace;
+}
