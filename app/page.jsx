@@ -14,7 +14,7 @@ export default function Page() {
       <div>
         <CountButton /> 
         <CountButton2 />
-        <a href="https://github.com/ShaneCost/demoReact">Link to GitHub Repo</a>
+        <a href="https://github.com/ShaneCost/nextJS">Link to GitHub Repo</a>
         <FakeStoreApi />
       </div>
     )
