@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "dev": "next dev",
+    "dev": "next -p 3076",
     "build": "next build",
-    "start": "next start",
+    "start": "next -p 3076",
     "lint": "next lint"
   },
   "devDependencies": {
